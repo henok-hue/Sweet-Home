@@ -1,0 +1,236 @@
+.bg {
+    background-image: url(assets/OIP.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 128%;
+    padding: 100px;
+    
+}
+.be {
+    color: red;
+    position: relative;
+    font-family: Rockwell;
+    font-weight: bold;
+    left: 60%;
+    text-decoration: none;
+   
+}
+.omg {
+    color: white;
+  font-size: 200%;
+}
+.mg {
+    color: white;
+    font-size: 400%;
+}
+.dkb {
+    font-size: 200%;
+    font-weight: bolder;
+    position: relative;
+    right: 16%;
+}
+.dk {
+    font-size: 150%;
+    font-weight: bold;
+}
+.dics {
+    display: flex;
+   
+}
+.od {
+    height: 340px;
+    width: 800px;
+     position: relative;
+    left: 660px;
+   top: -340px;
+}
+.bc {
+    position: relative;
+    font-family: Rockwell;
+    font-weight: bold;
+    left: 60%;
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+  }
+p {
+    font-family: Century Gothic ;
+    color: rgb(140, 139, 139);
+    width: 60%;
+    position: relative;
+    left: 10%;
+   
+}
+.lol {
+    position: relative;
+    left: 60px;
+    width: 900px;
+    bottom: 10px; 
+    font-size: 120%;
+}
+@media (max-width: 1000px) {
+    
+    .hm {
+        position: relative;
+        font-family: Rockwell;
+        font-weight: bold;
+       
+  
+    font-size: 90%;
+    left: 17%;
+     
+    }
+    .bg {
+        background-image: url(assets/OIP.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 20px;
+       width: 590px;
+        padding: 100px;
+        position: relative;
+        left: 160px;
+        
+    }.bc {
+   
+   position: relative;
+   font-family: Rockwell;
+   font-weight: bold;
+   font-size: 80%;
+  left: 38%;
+}
+
+    .be {
+        color: red;
+    }
+    .omg {
+        color: white;
+      font-size: 150%;
+      position: relative;
+      right: 40%;
+    }
+    .mg {
+        color: white;
+        font-size: 150%;
+        position: relative;
+      right: 35%;
+    }
+    .dk {
+        font-size: 60%;
+        font-weight: bold;
+        position: relative;
+        right: -100px;
+        top: 0px;
+        
+    }
+    .dics {
+        display: flex;
+       
+    }
+    .od {
+        height: 220px;
+        width: 420px;
+         position: relative;
+      left: 490px;
+     top:  -200px;
+    }
+    p { font-family: Century Gothic ;
+        color: rgb(140, 139, 139);
+        font-size: 10%;
+        
+       
+       
+      
+    }
+    .lol {
+        position: relative;
+        left: 130px;
+        width: 400px;
+        top: 10px; 
+        font-size: 100px;
+    }
+   
+}
+@media (max-width: 800px) {
+    
+    .hm {
+        position: relative;
+        font-family: Rockwell;
+        font-weight: bold;
+       
+  
+    font-size: 50%;
+    left: 17%;
+     
+    }
+    .ab {
+        position: relative;
+        font-family: Rockwell;
+        font-weight: bold;
+        font-size: 50%;
+       left: 28%;
+    }
+    .bg {
+        background-image: url(assets/OIP.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 20px;
+       width: 160px;
+        padding: 100px;
+        position: relative;
+        left: 160px;
+        
+    }.bc {
+    position: relative;
+    font-family: Rockwell;
+    font-weight: bold;
+    font-size: 50%;
+   left: 38%;
+}
+
+    .be {
+        color: red;
+    }
+    .omg {
+        color: white;
+      font-size: 100%;
+      position: relative;
+      right: 40%;
+    }
+    .mg {
+        color: white;
+        font-size: 100%;
+        position: relative;
+      right: 35%;
+    }
+    .dkb {
+        font-size: 200%;
+        font-weight: bolder;
+    }
+    .dics {
+        display: flex;
+       
+    }
+    .od {
+        height: 100px;
+        width: 130px;
+         position: relative;
+      left: 390px;
+      top: -90px;
+    }
+    p { font-family: Century Gothic ;
+        color: rgb(140, 139, 139);
+        font-size: 10%;
+        
+       
+       
+      
+    }
+    .lol {
+        position: relative;
+        left: 130px;
+        width: 300px;
+        bottom: 30px; 
+        font-size: 120%;
+    }
+   
+}
